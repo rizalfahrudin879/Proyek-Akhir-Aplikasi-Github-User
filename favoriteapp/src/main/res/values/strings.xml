@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FavoriteApp</string>
+    <string name="name">Name</string>
+    <string name="username">Username</string>
+    <string name="example_name">Example Name</string>
+    <string name="repositories">Repositories %1$s</string>
+    <string name="info_detail">%1$s | %2$s</string>
+    <string-array name="tab_title">
+        <item>Followers</item>
+        <item>Following</item>
+    </string-array>
+</resources>
